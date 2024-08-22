@@ -4,4 +4,4 @@ This project involves analyzing Electric Vehicle (EV) data using Tableau to prov
 
 ![image](https://github.com/user-attachments/assets/2b8e1e29-8273-4a57-a362-d352492b9b73)
 
-Link to the dashboard :- ![Link](https://public.tableau.com/app/profile/vipul.jain2977/viz/EVAnalysis_17243144462900/Dashboard1?publish=yes)
+Link to the dashboard :- [Dashboard Link](https://public.tableau.com/app/profile/vipul.jain2977/viz/EVAnalysis_17243144462900/Dashboard1?publish=yes)
